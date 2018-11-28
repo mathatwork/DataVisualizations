@@ -1,5 +1,5 @@
 # DataVisualizations
-Repository for Python for Data Visualizations Course
+Repository for Python for Data Visualizations workshop
 
 ### Notes
 The `requirements.txt` file lists all Python libraries that these notebooks depend on.  If you have a local Jupyter Notebook installation,  the libraries will be installed using:
